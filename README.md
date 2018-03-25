@@ -31,8 +31,11 @@ executar a solução proposta?
 Colocar o login no GitHub, endereço do perfil no GitHub e nome completo de todos
 os participantes do projeto, bem como o professor orientador, conforme o exemplo
 abaixo:
-- [@fulano-de-tal](https://github.com/fulano-de-tal) como Fulano de Tal (Orientador)
-- [@sicrano-de-tal](https://github.com/sicrano-de-tal) como Sicrano de Tal
+- [@lucas-ssgomes](https://github.com/lucas-ssgomes) com  Fulano de Tal (Orientador)
+- [@macedotenorio22](https://github.com/macedotenorio22) como Sicrano de Tal
+- [@SabrinaSposito](https://github.com/SabrinaSposito) como Sicrano de Tal
+
+
 
 ## Licença
 
