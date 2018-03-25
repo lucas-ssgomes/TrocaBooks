@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# TROCABOOKS
 
-You can use the [editor on GitHub](https://github.com/Zaclg/TrocaBooks/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Motivação
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Este sistema web tem a finalidade de incentivar e facilitar a troca de livros didáticos e técnicos, inicialmente no IFPE- Campus Garanhuns. 
 
-### Markdown
+## Soluções existentes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A grande questão é comodidade, na grande maioria dos sistemas relacionados a trocas de livros, não existe um público específico, livros de áreas tecnicas(Eletroeletrônica, Informática e Meio ambiente), não são fornecidos, ocasionando uma carência. É um sistema mantido pelo usuário que resolve tudo a partir do cadastramento do livro até a sua troca física. Não há cobranças para utilização do sistema, o acesso a leitura é a maior prioridade do TrocaBooks. 
 
-```markdown
-Syntax highlighted code block
+## Inovação
 
-# Header 1
-## Header 2
-### Header 3
+As regras para utilização do TrocaBooks são interativas e estigam o leitor a realizar as trocas com mais frequência. 
 
-- Bulleted
-- List
+## Público alvo
 
-1. Numbered
-2. List
+O TrocaBooks tem como público alvo inicialmente os discentes e docentes do IFPE - Campus Garanhuns, que poderão compartilhar conhecimentos através dos livros trocados. Este público poderá ter acesso ao mesmo por um site ()
 
-**Bold** and _Italic_ and `Code` text
+## Monetização
 
-[Link](url) and ![Image](src)
-```
+A intenção inicial é a disponibilização gratuita. Mas podemos monetizar essa aplicação com.... Como ela poderá gerar
+renda para os desenvolvedores/apoiadores/investidores dessa aplicação?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Ferramental utilizado
 
-### Jekyll Themes
+Quais as ferramentas, linguagens, programas e etc. utilizados para construir e
+executar a solução proposta?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zaclg/TrocaBooks/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Contribuidores
 
-### Support or Contact
+Colocar o login no GitHub, endereço do perfil no GitHub e nome completo de todos
+os participantes do projeto, bem como o professor orientador, conforme o exemplo
+abaixo:
+- [@fulano-de-tal](https://github.com/fulano-de-tal) como Fulano de Tal (Orientador)
+- [@sicrano-de-tal](https://github.com/sicrano-de-tal) como Sicrano de Tal
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Licença
+
+Colocar a licença da qual será lançada a ferramenta. Eu recomendo GPL ou MIT
+(mas tenho mais preferência por esta última). Mas favor ler as possíveis
+licenças e escolher uma.
