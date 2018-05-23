@@ -23,17 +23,19 @@ renda para os desenvolvedores/apoiadores/investidores dessa aplicação?
 
 ## Ferramental utilizado
 
-Quais as ferramentas, linguagens, programas e etc. utilizados para construir e
-executar a solução proposta?
+- ..
+- ..
 
 ## Contribuidores
 
 Colocar o login no GitHub, endereço do perfil no GitHub e nome completo de todos
 os participantes do projeto, bem como o professor orientador, conforme o exemplo
 abaixo:
-- [@lucas-ssgomes](https://github.com/lucas-ssgomes) com  Fulano de Tal (Orientador)
-- [@macedotenorio22](https://github.com/macedotenorio22) como Sicrano de Tal
-- [@SabrinaSposito](https://github.com/SabrinaSposito) como Sicrano de Tal
+- [vsnepomuceno](https://github.com/vsnepomuceno) com  Vilmar Nepomuceno (Orientador)
+- [@lucas-ssgomes](https://github.com/lucas-ssgomes) como Lucas Santos
+- [@SabrinaSposito](https://github.com/SabrinaSposito) como Sabrina Esposito
+- [@macedotenorio22](https://github.com/macedotenorio22) como Matheus Brandão
+
 
 
 
